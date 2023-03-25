@@ -4,15 +4,3 @@ Domain Driven Design
 Muhammad Ferdian Iqbal
 Naufal Adli Purnama
 Samuel
-
-## Domain Events
-
-—_A domain event captures the memory of something interesting which affects the domain_— Martin Fowler
-
-Domain event allow aggregate to react in another aggregate without coupling them
-
-
-## Domain Events
-Events = peristiwa atau sesuatu yang telah terjadi di masa lalu
-
-Dalam aplikasi yang kita buat kita bisa mencatat kejadian tersebut dengan informasi yang kita perlukan sebagai Domain Event.
